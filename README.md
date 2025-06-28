@@ -32,3 +32,8 @@ https://www.youtube.com/watch?v=gp9ZH9PsgOI&t=55s
 
 # Ideas for farewell video
 https://www.youtube.com/watch?v=RgKAFK5djSk&list=RDQMqUlvkWXVp7A&index=1
+
+
+# Create gui for app
+https://dearpygui.readthedocs.io/en/latest/documentation/tables.html#borders-background
+
