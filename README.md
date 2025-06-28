@@ -20,6 +20,9 @@ https://github.com/Breakthrough/PySceneDetect
 # Separate voice from soundtrack
 https://vocalremover.org/
 
+https://github.com/nomadkaraoke/python-audio-separator?tab=readme-ov-file
+Python audio separator
+
 
 # Text to speech and voice cloning
 https://storyteller.ai/weight/weight_e7t4c0nh1e0dxfxe4bry7z9sk/vin-diesel
