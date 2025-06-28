@@ -26,3 +26,6 @@ https://storyteller.ai/weight/weight_e7t4c0nh1e0dxfxe4bry7z9sk/vin-diesel
 
 https://www.youtube.com/watch?v=aiKAuvjJIAI
 ClipChamp text to speech
+
+# ClipChamp
+https://www.youtube.com/watch?v=gp9ZH9PsgOI&t=55s
