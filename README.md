@@ -29,3 +29,6 @@ ClipChamp text to speech
 
 # ClipChamp
 https://www.youtube.com/watch?v=gp9ZH9PsgOI&t=55s
+
+# Ideas for farewell video
+https://www.youtube.com/watch?v=RgKAFK5djSk&list=RDQMqUlvkWXVp7A&index=1
